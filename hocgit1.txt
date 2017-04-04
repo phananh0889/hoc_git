@@ -1,0 +1,9 @@
+git clone https://github.com/phananh0889/hoc_git(cmd)
+create new file (sd.txt) in folder hoc_git (by mouse)
+cd hoc_git (cmd)
+git diff
+git add -N sd.txt (them noi dung ao vào tap tin sd)
+git add -A (add toan bo tap tin len noi trung gian )
+git commit -m "asdasd" (commit tap tin)
+git push (
+git pull
